@@ -1,4 +1,4 @@
-Title: Open Science Initiative
+Title: Open Science Initiative Home
 Date: 2018-10-5 10:10
 URL:
 save_as: index.html
