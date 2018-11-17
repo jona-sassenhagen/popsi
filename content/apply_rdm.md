@@ -52,16 +52,16 @@ In general, no specific computer knowledge is required.
 <td>12:30</td>			<td>— Lunch Break —</td>
 </tr>
 <tr>
-<td>13:30</td>			<td>Introduction REDCap</td>
-</tr>
-<tr>
-<td>	</td>	<td>Dr. Annett Wilde (DIPF)</td>
-</tr>
-<tr>
-<td>14:30</td>			<td>Introduction Brain Data Imaging Structure (BIDS)</td>
+<td>13:30</td>			<td>Introduction Brain Imaging Data Structure (BIDS)</td>
 </tr>
 <tr>
 <td>	</td>	<td>Dr. Benjamin Gagl (GU)</td>
+</tr>
+<tr>
+<td>14:30</td>			<td>Introduction REDCap</td>
+</tr>
+<tr>
+<td>	</td>	<td>Dr. Annett Wilde (DIPF)</td>
 </tr>
 <tr>
 <td>15:30</td>			<td>— End of Workshop—</td>
