@@ -9,11 +9,11 @@ This is the website of the Frankfurt Psychology Open Science Initiative.
 
 # Members
 
-[Rima-Maria Rahal](rahal@psych.uni-frankfurt.de)
-
 [Christian Fiebach](fiebach@psych.uni-frankfurt.de)
 
 [Jona Sassenhagen](Sassenhagen@psych.uni-frankfurt.de)
+
+[Benjamin Gagl](gagl@psych.uni-frankfurt.de)
 
 Charlotte Dignath
 
