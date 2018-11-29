@@ -13,7 +13,7 @@ This is the website of the Frankfurt Psychology Open Science Initiative.
 
 [Jona Sassenhagen](Sassenhagen@psych.uni-frankfurt.de)
 
-[Benjamin Gagl](gagl@psych.uni-frankfurt.de)
+[Benjamin Gagl](https://sites.google.com/site/gaglbenjamin/Home)
 
 Charlotte Dignath
 
