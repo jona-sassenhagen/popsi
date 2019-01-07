@@ -27,5 +27,7 @@ Christina Maurer
 
 Katja Knuth-Herzig
 
+Julia Beitner
+
 # Feedback
 For feedback to the website itself, please write to [Jona Sassenhagen](Sassenhagen@psych.uni-frankfurt.de)
