@@ -80,7 +80,7 @@ DISPLAY_SEARCH_FORM = True
 
 TYPOGRIFY = True
 
-STATIC_PATHS = ["resources/protocols", "images"]
+STATIC_PATHS = ["resources/protocols", "resources/dsgvo", "images"]
 
 MARKDOWN = {
     'extension_configs': {

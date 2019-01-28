@@ -14,3 +14,4 @@ Summary: Protocols of OSIF meetings
 [#3](resources/protocols/p3.pdf)
 
 [#4](resources/protocols/p4.pdf)
+
