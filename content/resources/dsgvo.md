@@ -24,12 +24,37 @@ Most recent EU laws also suggest a strong emphasis on informed consent, although
 laws](https://datenschutz.hessen.de/pressemitteilungen/gesetz-zur-anpassung-des-hessischen-datenschutzrechts)
 grant much more freedom to academic research.
 
-Inspired by the [Ultimate Consent Forms](https://open-brain-consent.readthedocs.io/en/master/ultimate.html),
-we have developed a general consent form hopefully sufficient to cover most investigations relevant to
-conducting psychological and neurocognitive experiments.
+The DGPS (German Society for Psychology) has constructed and vetted a series of documents covering all stages 
+of preparing an experiment according to the DSGVO (ger.)/GDPR (eng.), which you can find 
+[here](https://www.dgps.de/index.php?id=185). We have adapted these documents, to be used at Goethe 
+university:
 
-You can download the form 
-[here](https://www.dropbox.com/s/chapn9ss0wpz6qt/Probandeninformation_Flexstudie_Teil2.pdf?dl=0).
+[General Consent Form](resources/dsgvo/consent_general.docx)
+
+[Consent Form for EEG studies](resources/dsgvo/consent_eeg.docx)
+
+[Consent Form for fMRI studies](resources/dsgvo/consent_fmri.docx)
+
+[Consent Form for studies including recordings of participants](resources/dsgvo/consent_recordings.docx)
+
+[Full informed consent document](resources/dsgvo/informed_consent.docx)
+
+[Pregnancy exclusion form](resources/dsgvo/pregnancy.docx)
+
+[Repository of study coordinators form](resources/dsgvo/pregnancy.docx)
+
+[Schweigepflichtentbindung](resources/dsgvo/SE_V1.docx)
+
+Consider also the central clauses of the DSGVO and the specific legislature on the subject by the state of Hesse:
+
+[Land Hesse local laws](resources/dsgvo/hdsig.pdf)
+
+[BfDI information](resources/dsgvo/bfdi.pdf)
+
+[FDB information](resources/dsgvo/fdb.pdf)
+
+[Our summary](resources/dsgvo/summary.docx)
+
 
 ## Appropriate Formats
 

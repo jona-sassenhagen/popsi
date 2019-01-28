@@ -6,8 +6,8 @@ Summary: Resources Page
 
 We provide a collection of tools to support Open Science practices:
 
-- [Open Consent Forms]({filename}/resources/consent_forms.md), default consent forms 
-for data sharing purposes
+- [Open Consent Forms]({filename}/resources/dsgvo.md), default consent forms 
+for data sharing purposes, compatible with DSGVO norms
 - [Python for 
 Psychologists](https://github.com/jona-sassenhagen/python_for_psychologists), class 
 materials for an introduction into scientific programming, experimental creation and 
