@@ -33,7 +33,7 @@ university:
 
 [Consent Form for EEG studies](resources/dsgvo/consent_eeg.docx)
 
-[Consent Form for fMRI studies](resources/dsgvo/consent_fmri.docx)
+[Consent Form for fMRI studies](resources/dsgvo/consent_mri.docx)
 
 [Consent Form for studies including recordings of participants](resources/dsgvo/consent_recordings.docx)
 
