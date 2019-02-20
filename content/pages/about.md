@@ -19,6 +19,8 @@ Charlotte Dignath
 
 Franziska Baier
 
+Kirsten Hilger
+
 Christina Maurer
 
 [Garvin Brod](brod@dipf.de)
