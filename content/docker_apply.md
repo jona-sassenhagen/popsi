@@ -1,6 +1,5 @@
 Title: docker invitation
 Date: 2019-08-30 17:13
-Modified: 
 Tags: News
 Category: News
 Slug: docker-apply
