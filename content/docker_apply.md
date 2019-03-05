@@ -12,7 +12,7 @@ Summary: Open Science Day Einladung
 
 The Open Science Workshop Series continues. We are happy to announce our upcoming Docker Workshop held by Peer Heerholz.
 
-All information and registration can be find here: 
+All information and registration can be found here: 
 
 
 <iframe 
