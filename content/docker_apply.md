@@ -1,5 +1,5 @@
 Title: docker invitation
-Date: 2019-08-30 17:13
+Date: 2019-03-05 17:13
 Tags: News
 Category: News
 Slug: docker-apply
@@ -9,7 +9,7 @@ Summary: Open Science Day Einladung
 # Docker Workshop
 ## 1st April, 2019
 
-The Open Science Workshop Series continues. We are happy to announce our upcoming Docker Workshop held by Peer Heerholz.
+The Open Science Workshop Series continues. We are happy to announce our upcoming Docker Workshop held by Peer Herholz.
 
 All information and registration can be found here: 
 
