@@ -14,3 +14,6 @@ ghp-import output/ -p -f -r https://github.com/open-science-frankfurt/open-scien
 
 git checkout master
 git branch -D temp
+
+git fetch origin
+git reset --hard origin/master
