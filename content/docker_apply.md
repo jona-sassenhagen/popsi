@@ -11,6 +11,8 @@ Summary: Open Science Day Einladung
 
 The Open Science Workshop Series continues. We are happy to announce our upcoming Docker Workshop held by Peer Herholz.
 
+The respository for the workshop and a tentative schedule can be found [here](https://github.com/PeerHerholz/docker_ws_os_frankfurt/blob/master/README.md)
+
 All information and registration can be found here: 
 
 
