@@ -11,6 +11,16 @@ Summary: Open Science Day Einladung
 
 The Open Science Workshop Series continues. We are happy to announce our upcoming Docker Workshop held by Peer Herholz.
 
+*Why Docker?*
+
+- **Reproducibility** We are in a replication crisis. Docker tackles the technical side of this problem:
+  by *containerizing* the software environment underlying a scientific analysis, others can exactly reproduce
+  the analysis you did - or you can reproduce the analyses others did. Docker takes care of installing all of
+  the relevant software in exactly the right configuration.
+- **State Of The Pipelines** Docker makes it easy to access the software pipelines of methodological experts.
+  It allows you to acces their analysis tools and easily apply them to your own data.
+
+
 The respository for the workshop and a tentative schedule can be found [here](https://github.com/PeerHerholz/docker_ws_os_frankfurt/blob/master/README.md)
 
 All information and registration can be found here: 
