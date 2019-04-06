@@ -41,7 +41,7 @@ university:
 
 [Pregnancy exclusion form](resources/dsgvo/pregnancy.docx)
 
-[Repository of study coordinators form](resources/dsgvo/pregnancy.docx)
+[Repository of study coordinators form](resources/dsgvo/responsible_persons_form.docx)
 
 [Schweigepflichtentbindung](resources/dsgvo/SE_V1.docx)
 
