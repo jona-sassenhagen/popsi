@@ -22,18 +22,17 @@ others to reproduce and reuse your work.
 
 **Collaboration**
 
-Github (and similar platforms, such as Gitlab) allow collaborators to
-seamlessly collaborate
-on the same project and code base without losing track of who did what and
-when. Additionally, they drastically facilitate sharing and maintaining of
+Github (and similar platforms, such as Gitlab) are internet-based platforms that
+simplify using Git and allow collaborators to seamlessly collaborate
+on the same project and code base without losing track of who did what and when.
+Additionally, such platforms drastically facilitate sharing and maintaining of
 open source code and enable you to systematically deal with bugs and updates.
-
 
 **Equipment and software requirements**  
 Please bring your laptop and install [git](https://git-scm.com/downloads) and 
 sign up for an account at [github](https://github.com/) before the workshop.
 A nice and short introduction how to set up git can be found
-[here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+[here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git).
 
 **Catering**  
 Drinks and some snacks will be provided during the coffee breaks.
