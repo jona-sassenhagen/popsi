@@ -13,3 +13,6 @@ ghp-import output/ -p
 
 git checkout master
 git branch -D temp
+
+git fetch origin
+git reset --hard origin/master
