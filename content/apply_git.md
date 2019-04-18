@@ -41,7 +41,7 @@ Please indicate whether you would be interested in joining us for lunch by
 filling in the respective fields in the registration form. 
 
 **When and where?**  
-Friday, 26th April, 9:30 - 17:00, PEG-Building, 1.G192 
+Friday, 26th April, 9:30 - 17:00, Seminarpavillon, SP 2.04 
 
 Limited places are available. 
 The workshop is, like all of our workshops, free of charge for members of the
@@ -49,7 +49,7 @@ Frankfurt Open Science Community.
 
 Questions and comments can be sent to gagl@psych.uni-frankfurt.de.
 
-**Benjamin Gagl, Jona Sassenhagen & Rebekka Mayer**
+**Benjamin Gagl, Jona Sassenhagen & Rebecca Mayer**
 for the Open Science Initiative Frankfurt 
 
 ---
