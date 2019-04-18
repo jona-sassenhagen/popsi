@@ -29,31 +29,31 @@ of preparing an experiment according to the DSGVO (ger.)/GDPR (eng.), which you 
 [here](https://www.dgps.de/index.php?id=185). We have adapted these documents, to be used at Goethe 
 university:
 
-[General Consent Form](resources/dsgvo/consent_general.docx)
+[General Consent Form](https://www.dropbox.com/s/s75jm7rzyr307zh/consent_general.docx?dl=0)
 
-[Consent Form for EEG studies](resources/dsgvo/consent_eeg.docx)
+[Consent Form for EEG studies](https://www.dropbox.com/s/qbbx5vbsb2j0asy/consent_eeg.docx?dl=0)
 
-[Consent Form for fMRI studies](resources/dsgvo/consent_mri.docx)
+[Consent Form for fMRI studies](https://www.dropbox.com/s/k9t4lvq9r73qhvn/consent_mri.docx?dl=0)
 
-[Consent Form for studies including recordings of participants](resources/dsgvo/consent_recordings.docx)
+[Consent Form for studies including recordings of participants](https://www.dropbox.com/s/78ix7p0esha7b0c/consent_recordings.docx?dl=0)
 
-[Full informed consent document](resources/dsgvo/informed_consent.docx)
+[Full informed consent document](https://www.dropbox.com/s/lgkqpnxas4qyy8f/informed_consent.docx?dl=0)
 
-[Pregnancy exclusion form](resources/dsgvo/pregnancy.docx)
+[Pregnancy exclusion form](https://www.dropbox.com/s/yp3jqh107euko7i/pregnancy.docx?dl=0)
 
-[Repository of study coordinators form](resources/dsgvo/pregnancy.docx)
+[Repository of study coordinators form](https://www.dropbox.com/s/rk0akm3klpz3njk/responsible_persons_form.docx?dl=0)
 
-[Schweigepflichtentbindung](resources/dsgvo/SE_V1.docx)
+[Schweigepflichtentbindung](https://www.dropbox.com/s/zln3t0bl9c1296w/SE_V1.docx?dl=0)
 
 Consider also the central clauses of the DSGVO and the specific legislature on the subject by the state of Hesse:
 
-[Land Hesse local laws](resources/dsgvo/hdsig.pdf)
+[Land Hesse local laws](https://www.dropbox.com/s/afdlw9dfz8hf21z/hdsig.pdf?dl=0)
 
-[BfDI information](resources/dsgvo/bfdi.pdf)
+[BfDI information](https://www.dropbox.com/s/51wkig160wrci12/bfdi.pdf?dl=0)
 
-[FDB information](resources/dsgvo/fdb.pdf)
+[FDB information](https://www.dropbox.com/s/g4q6yryjmn4e6iq/fdb.pdf?dl=0)
 
-[Our summary](resources/dsgvo/summary.docx)
+[Our summary](https://www.dropbox.com/s/8rn9ku6fe64nh36/summary.docx?dl=0)
 
 
 ## Appropriate Formats
