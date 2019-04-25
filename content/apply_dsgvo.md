@@ -27,7 +27,7 @@ Because the Workshop will be held in German, the following overview is also in G
 
 ** When and where **
 
-The workshop will take place on Friday, May 24th from 9:00 AM to 1:30 PM in SP0.04, Seminarhaus, Campus Westend.
+The workshop will take place on Friday, May 24th from 9:00 AM to 1:30 PM in SP0.04, Seminarpavillon, Campus Westend.
 
 
 If you want to register for the workshop, please fill out this GoogleForm: https://forms.gle/EnU1Br4cMMeAUayF7
